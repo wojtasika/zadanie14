@@ -2,11 +2,41 @@ body {
     background-color:beige;
 }
 
-.box {
+.box1 {
     width:150px;
     height:150px;
     margin-bottom: 8px;
     background-color:black;
     margin:auto;
     margin-bottom: 10px;
+}
+
+.box2 {
+    width:150px;
+    height:150px;
+    margin-bottom: 8px;
+    background-color:black;
+    margin:auto;
+    margin-bottom: 10px;
+    opacity: 0.6;
+}
+
+.box3 {
+    width:150px;
+    height:150px;
+    margin-bottom: 8px;
+    background-color:black;
+    margin:auto;
+    margin-bottom: 10px;
+    opacity: 0.4;
+}
+
+.box4 {
+    width:150px;
+    height:150px;
+    margin-bottom: 8px;
+    background-color:black;
+    margin:auto;
+    margin-bottom: 10px;
+    opacity:0.2;
 }
